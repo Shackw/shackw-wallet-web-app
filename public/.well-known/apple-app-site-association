@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "TEAMID.com.shackw.shackwwallet",
+        "paths": ["/addresses*", "/transfer*"]
+      }
+    ]
+  }
+}
