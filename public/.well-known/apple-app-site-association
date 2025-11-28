@@ -3,8 +3,11 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAMID.com.shackw.shackwwallet",
-        "paths": ["/addresses*", "/transfer*"]
+        "appID": "TEAMID.com.shackw.wallet",
+        "paths": [
+          "/addresses*",
+          "/transfer*"
+        ]
       }
     ]
   }
