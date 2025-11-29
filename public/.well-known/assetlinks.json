@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.shackw.wallet",
       "sha256_cert_fingerprints": [
-        "6A:35:2F:8D:40:C0:7C:AA:42:45:12:18:E2:51:A1:4B:EA:A2:B6:9A:BE:5F:D4:85:F5:84:94:6F:F2:6F:03:5D"
+        "6a:35:2f:8d:40:c0:7c:aa:42:45:12:18:e2:51:a1:4b:ea:a2:b6:9a:be:5f:d4:85:f5:84:94:6f:f2:6f:03:5d",
+        "fa:c6:17:45:dc:09:03:78:6f:b9:ed:e6:2a:96:2b:39:9f:73:48:f0:bb:6f:89:9b:83:32:66:75:91:03:3b:9c"
       ]
     }
   }
